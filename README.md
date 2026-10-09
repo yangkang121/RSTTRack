@@ -1,3 +1,7 @@
+![模型结构图1](D:\scientific research\Paper\RGBT-Language\模型结构图和实验对比图\模型结构图1.png)
+
+​                                                                                        Fig 2. The overall framework of RSTTrack.
+
 ## ⚙️ Installation
 
 **1. Clone the repository and create the conda environment:**
