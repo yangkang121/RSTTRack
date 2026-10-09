@@ -90,22 +90,14 @@ Alternatively, manually edit the path configs:
 
 ---
 
-This repo is based on [DUTrack](https://github.com/GXNU-ZhongLab/DUTrack) and [MUST](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking). We sincerely thank the authors for their excellent works.
+This repo is based on [DUTrack](https://github.com/GXNU-ZhongLab/DUTrack) and RAGTrack. We sincerely thank the authors for their excellent works.
 
 ---
 
-## 📚 Citation
-
-If you find **RSTTrack** is helpful for your research, please consider citing:
+## 
 
 ```bibtex
-@inproceedings{li2026rsttrack,
-  title={RSTTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation},
-  author={Li, Hao and Wang, Yuhao and Hao, Wenning and Zhang, Pingping and Wang, Dong and Lu, Huchuan},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={28179--28189},
-  year={2026}
-}
+
+
 ```
 
-<p align="center"> <b>Star ⭐ this repo if you like our work!</b> </p>
