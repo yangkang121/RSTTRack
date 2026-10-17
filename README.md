@@ -21,7 +21,7 @@ pip install -r requirements.txt
 Download the following datasets and place them under `./data/`:
 
 - **RGB-T images**: [GTOT, RGBT210, RGBT234, LasHeR](https://chenglongli.cn/Datasets-and-benchmark-code/)
-- **Textual annotations**: [Baidu Drive](https://pan.baidu.com/s/1Z_v8rrLdJt06hgYmcJjubQ?pwd=nayy)[https://drive.google.com/file/d/18GOOF6YKekhIwodJMI0ZQPwkRJHFuahI/view?usp=drive_link] Thanks for [RAGTrack](https://github.com/IdolLab/RAGTrack)
+- **Textual annotations**: [Here](https://pan.baidu.com/s/1H2ZSTpCElm9B0WswTDkzRA?pwd=61h4)  (pwd: `61h4`)  Thanks for [RAGTrack](https://github.com/IdolLab/RAGTrack).
 
 The expected directory structure is as follows:
 
