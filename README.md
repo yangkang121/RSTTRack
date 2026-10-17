@@ -84,7 +84,7 @@ Alternatively, manually edit the path configs:
 
 ---
 
-This repo is based on [DUTrack](https://github.com/GXNU-ZhongLab/DUTrack) and RAGTrack. We sincerely thank the authors for their excellent works.
+This repo is based on [DUTrack](https://github.com/GXNU-ZhongLab/DUTrack) and [RAGTrack](https://github.com/IdolLab/RAGTrack). We sincerely thank the authors for their excellent works.
 
 ---
 
