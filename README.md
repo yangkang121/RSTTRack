@@ -1,4 +1,4 @@
-![](D:\scientific research\Paper\RGBT-Language\GitHub\RSTTrack\fig\模型结构图1.png)
+![]([RSTTRack/fig at main · yangkang121/RSTTRack](https://github.com/yangkang121/RSTTRack/tree/main/fig))
 
 ## ⚙️ Installation
 
