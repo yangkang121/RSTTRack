@@ -1,3 +1,5 @@
+## **The official implementation of RSTTrack: Reliability-aware Sparse Temporal Learning for Language Guided RGB-T Tracking.**
+
 !["Framework"](/fig/模型结构图1.png)
 
 ## ⚙️ Installation
