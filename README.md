@@ -1,4 +1,4 @@
-![]([RSTTRack/fig at main · yangkang121/RSTTRack](https://github.com/yangkang121/RSTTRack/tree/main/fig))
+![](https://github.com/yangkang121/RSTTRack/tree/main/fig/模型结构图1.png)
 
 ## ⚙️ Installation
 
