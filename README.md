@@ -22,6 +22,7 @@ Download the following datasets and place them under `./data/`:
 
 - **RGB-T images**: [GTOT, RGBT210, RGBT234, LasHeR](https://chenglongli.cn/Datasets-and-benchmark-code/)
 - **Textual annotations**: [Here](https://pan.baidu.com/s/1H2ZSTpCElm9B0WswTDkzRA?pwd=61h4)  (pwd: `61h4`)  Thanks for [RAGTrack](https://github.com/IdolLab/RAGTrack).
+- **The experimental results of the four datasets were calculated using the [Matlab tool](https://chenglongli.cn/Datasets-and-benchmark-code/) and are presented in the "[experiment_result](https://github.com/yangkang121/RSTTRack/tree/main/experiment_result)" file.**
 
 The expected directory structure is as follows:
 
