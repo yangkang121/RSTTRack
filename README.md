@@ -1,4 +1,4 @@
-![](https://github.com/yangkang121/RSTTRack/tree/main/fig/模型结构图1.png)
+!["Framework"](/fig/模型结构图1.png)
 
 ## ⚙️ Installation
 
